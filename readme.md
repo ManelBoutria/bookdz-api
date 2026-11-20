@@ -98,7 +98,10 @@ middleware/             auth.js (JWT, OAuth, admin check), rateLimiters.js
 routes/                 authRoutes.js, productRoutes.js
 server.js               app setup, CORS, rate limit, error handling
 seed.js                 sample data and admin account
+
 ```
+## TEST 
+![Get all books 200](screenshots/products-200.png)
 
 ## Deployment
 
